@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 
 
-function App() {
+function Element_by_id() {
   const [color, setColor] = useState("")
   const [input, setInput] = useState("")
 
@@ -27,4 +27,4 @@ function App() {
   )
 }
 
-export default App
+export default Element_by_id
